@@ -22,7 +22,6 @@ The problem with uploading Japanese trade data files before 2008 is not currentl
 *** Data folder descriptions
 
 "Data(JPN)"...
-
 This folder contains value-added source files for each country exporting to Japan. These files are retrieved by Fabien Rondeau's R codes. 
 
 
