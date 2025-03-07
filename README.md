@@ -19,4 +19,15 @@ The other two Matlab codes are auxiliaries, only used by the main Matlab code 'I
 The problem with uploading Japanese trade data files before 2008 is not currently fixed yet (March 07, 2025); there are over 1,000 files. 
 
 
-*** 
+*** Data folder descriptions
+
+"Data(JPN)"
+
+This folder contains value-added source files for each country exporting to Japan. These files are retrieved by Fabien Rondeau's R codes. 
+
+
+"Data"...
+This folder contains thousands of files for HS 9-digit level Japanese import data.
+
+
+"Data for regression"
