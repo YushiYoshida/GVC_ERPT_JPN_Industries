@@ -3,5 +3,7 @@ The Matlab codes and the dataset for "Global Value Chains and Exchange Rate Pass
 
 ISIC_TradePrice.m ... constructs a weighted unit-value price for the industry level, combined with value-added variables, labor costs, and consumer price index. In the end, it produced the dataset in Excel format.
 
+The other two Matlab codes are auxiliaries, only used by the main Matlab code 'ISIC_TradePrice.m' 
 
+The problem with uploading Japanese trade data files before 2008 is not currently fixed yet (March 07, 2025); there are over 1,000 files. 
 
